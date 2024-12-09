@@ -1,4 +1,3 @@
-// Soroosh Hamedifar; 40310HINT877
 #include <stdio.h>
 #define SIZE 30
 #define HINT 10
