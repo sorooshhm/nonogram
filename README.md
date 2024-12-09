@@ -1,4 +1,3 @@
-![Screenshot 2024-12-09 213546](https://github.com/user-attachments/assets/dcd271a5-6321-48cb-ba7b-68cc97fa4724)# nonogram
 This program solve nonogram puzzle and ouput the table 
 ## Example
 <details >
